@@ -1,4 +1,4 @@
-.dot {
+.dot::slotted {
 	height: 60px;
 	width: 60px;
 	background-color: cornflowerblue;
@@ -11,7 +11,7 @@
 	color: white !important;
 }
 
-.textInBlue {
+.textInBlue::slotted {
 	align-items: center !important;
 	display: flex !important;
 	height: 50px !important;
@@ -24,7 +24,7 @@
 	border-radius: 20px !important;
 }
 
-.textInGreen {
+.textInGreen::slotted {
 	align-items: center !important;
 	display: flex !important;
 	height: 50px !important;
@@ -37,7 +37,7 @@
 	border-radius: 20px !important;
 }
 
-.textInRed {
+.textInRed::slotted {
 	align-items: center !important;
 	display: flex !important;
 	height: 50px !important;
@@ -50,7 +50,7 @@
 	border-radius: 20px !important;
 }
 
-.textInYellow {
+.textInYellow::slotted {
 	align-items: center !important;
 	display: flex !important;
 	height: 50px !important;
@@ -63,7 +63,7 @@
 	border-radius: 20px !important;
 }
 
-.textInBlack {
+.textInBlack::slotted {
 	align-items: center !important;
 	display: flex !important;
 	height: 50px !important;
@@ -76,7 +76,7 @@
 	border-radius: 20px !important;
 }
 
-.tituloOfText {
+.tituloOfText::slotted {
 	font-family: clan !important;
 	font-size: 27px !important;
 	font-weight: lighter;
