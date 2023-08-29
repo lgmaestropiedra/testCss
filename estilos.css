@@ -1,0 +1,84 @@
+.dot {
+	height: 60px;
+	width: 60px;
+	background-color: cornflowerblue;
+	font-family: clan !important;
+	font-size: 22px !important;
+	align-items: center !important;
+	display: flex !important;
+	justify-content: center !important;
+	border-radius: 50%;
+	color: white !important;
+}
+
+.textInBlue {
+	align-items: center !important;
+	display: flex !important;
+	height: 50px !important;
+	font-family: clan !important;
+	font-size: 27px !important;
+	justify-content: center !important;
+	width: 300px !important;
+	background-color: cornflowerblue !important;
+	color: white !important;
+	border-radius: 20px !important;
+}
+
+.textInGreen {
+	align-items: center !important;
+	display: flex !important;
+	height: 50px !important;
+	font-family: clan !important;
+	font-size: 27px !important;
+	justify-content: center !important;
+	width: 300px !important;
+	background-color: darkolivegreen !important;
+	color: white !important;
+	border-radius: 20px !important;
+}
+
+.textInRed {
+	align-items: center !important;
+	display: flex !important;
+	height: 50px !important;
+	font-family: clan !important;
+	font-size: 27px !important;
+	justify-content: center !important;
+	width: 300px !important;
+	background-color: orangered !important;
+	color: white !important;
+	border-radius: 20px !important;
+}
+
+.textInYellow {
+	align-items: center !important;
+	display: flex !important;
+	height: 50px !important;
+	font-family: clan !important;
+	font-size: 27px !important;
+	justify-content: center !important;
+	width: 300px !important;
+	background-color: gold !important;
+	color: black !important;
+	border-radius: 20px !important;
+}
+
+.textInBlack {
+	align-items: center !important;
+	display: flex !important;
+	height: 50px !important;
+	font-family: clan !important;
+	font-size: 27px !important;
+	justify-content: center !important;
+	width: 300px !important;
+	background-color: black !important;
+	color: white !important;
+	border-radius: 20px !important;
+}
+
+.tituloOfText {
+	font-family: clan !important;
+	font-size: 27px !important;
+	font-weight: lighter;
+	text-align: center;
+}
